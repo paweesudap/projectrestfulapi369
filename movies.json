@@ -1,0 +1,58 @@
+{
+    "movie1" : { 
+        "category" : "Action/Animation", 
+        "name" : "My Hero Academia Heroes rising", 
+        "studio" : "Bones", 
+        "released" : "2019",
+        "country": "Japan",
+        "id": 1
+    },
+    "movie2" : { 
+        "category" : "Action/Animation", 
+        "name" : "My Hero Academia World Hero Mission", 
+        "studio" : "Bones", 
+        "released" : "2022",
+        "country": "Japan",
+        "id": 2
+    },
+    "movie3" : { 
+        "category" : "Action/Sci-fi/Fantasy", 
+        "name" : "Dr.Strange", 
+        "studio" : "Marvel", 
+        "released" : "2016",
+        "country": "United States",
+        "id": 3
+    },
+    "movie4" : { 
+        "category" : "Fantasy/Romantic", 
+        "name" : "A Whisker Away", 
+        "studio" : "Ghibli", 
+        "released" : "2020",
+        "country": "Japan",
+        "id": 4
+    },
+    "movie5" : { 
+        "category" : "Fantasy/Romantic", 
+        "name" : "Twilight", 
+        "studio" : "Temple Hill Ent.", 
+        "released" : "2008",
+        "country": "United States",
+        "id": 5
+    },
+    "movie6" : { 
+        "category" : "Horror", 
+        "name" : "The Medium", 
+        "studio" : "GDH559", 
+        "released" : "2021",
+        "country": "Thailand",
+        "id": 6
+    },
+    "movie7" : { 
+        "category" : "Black comedy/Thriller", 
+        "name" : "Parasite", 
+        "studio" : "Barunson E&A", 
+        "released" : "2019",
+        "country": "South Korea",
+        "id": 7
+    }
+}
